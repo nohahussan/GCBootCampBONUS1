@@ -1,0 +1,6 @@
+/Users/Noha/Desktop/practice/practice/bin/Debug/practice.exe
+/Users/Noha/Desktop/practice/practice/bin/Debug/practice.pdb
+/Users/Noha/Desktop/practice/practice/obj/x86/Debug/practice.csprojAssemblyReference.cache
+/Users/Noha/Desktop/practice/practice/obj/x86/Debug/practice.csproj.CoreCompileInputs.cache
+/Users/Noha/Desktop/practice/practice/obj/x86/Debug/practice.exe
+/Users/Noha/Desktop/practice/practice/obj/x86/Debug/practice.pdb
